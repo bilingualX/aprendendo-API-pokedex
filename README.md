@@ -1,3 +1,5 @@
+Explore the project and see the magic in action. [**Explore Now**](https://gustavo19972023.github.io/aprendendo-API-pokedex/)
+
 🌟 Mastering the Art of APIs with the Pokedex Project 🌟
 
 Pokedex Project Demo
